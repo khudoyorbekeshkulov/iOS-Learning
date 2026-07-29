@@ -10,4 +10,5 @@ This repository contains my Swift and UIKit learning journey.
 - [ ] Optionals
 - [ ] Class vs Struct
 - [ ] Access Control
+- [ ] Initializations
       
